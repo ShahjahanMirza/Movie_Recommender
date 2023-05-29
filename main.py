@@ -52,7 +52,7 @@ if st.button('Hit Me So I Recommend You Movies!'):
     st.success("Movies Recommended")
     # Page Breaker
     st.write("""
-            # --------Recommended Movies----------- """)
+            # --------Recommended Movies---------- """)
 
     # Get Recommendations
     recommended_movies = recommendations(movie)
