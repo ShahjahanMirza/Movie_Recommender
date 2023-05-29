@@ -70,8 +70,8 @@ if st.button('Hit Me So I Recommend You Movies!'):
         
         # Movie
         st.write(f"""
-                ###### Title:  """)
+                ###### Title:  """ + i)
         rating = df.loc[i,'rating']
-        st.write(i+' (Rating-{})'.format(rating))
+        st.write(' (Rating-{})'.format(rating))
 
         count += 1
