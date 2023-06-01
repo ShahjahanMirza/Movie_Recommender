@@ -1,6 +1,6 @@
 # Movie_Recommender
 
-## *Run the deployed version: (https://shahjahanmirza-movie-recommender-main-vk97b1.streamlit.app/) 😎
+## *Run the deployed version: [click to run]((https://shahjahanmirza-movie-recommender-main-vk97b1.streamlit.app/)) 😎
 
 ![Screenshot 2023-05-29 225459](https://github.com/ShahjahanMirza/Movie_Recommender/assets/103453568/18db9949-4de5-41c2-bde9-5de409a8d0aa)
 
